@@ -1,6 +1,6 @@
 # Dynamic ToDo list ReactJS
 
-##Requirements:
+## Requirements:
 1.  Create a React application that consists of a todo list
 2. The todo list should display a list of tasks, each with a checkbox to mark it as completed and a delete button to remove it
 3. Users should be able to add new tasks to the list using an input field and a "Add Task" button.
